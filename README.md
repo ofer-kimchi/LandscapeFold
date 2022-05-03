@@ -4,4 +4,4 @@ Contains code implementing the LandscapeFold algorithm, described in Kimchi et a
 
 The code has since been translated to Python, and new features are expected to be added to the Python framework. Instructions on how to run the code in Python are available as comments within the code and in a forthcoming book chapter (RNA structure prediction, Methods in Mol. Biol. Springer.)
 
-Correspondence can be addressed to okimchi@g.harvard.edu.
+Correspondence can be addressed to okimchi@princeton.edu.
